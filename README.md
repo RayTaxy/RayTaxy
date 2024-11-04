@@ -1,1 +1,1 @@
-!()[https://github.com/RayTaxy/RayTaxy/blob/main/gif.gif]
+![](https://github.com/RayTaxy/RayTaxy/blob/main/gif.gif)
